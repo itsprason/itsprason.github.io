@@ -1,5 +1,6 @@
 # The Site Configuration
 
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -14,12 +15,12 @@ timezone: Asia/Katmandu
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Prason # the main title
+title: Prason 𓃠 # the main title
 
-tagline: Just another aspiring engineer # it will display as the subtitle
+tagline: Simply an aspiring engineer on a journey # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Prason Pandey is a associate DevSecOps engineer at Reduct Nepal. He is currently pursuing BBA with major in Business and Insurance.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -88,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -98,8 +99,8 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://gravatar.com/avatar/c772d3bccd20ae3d90171792fa639ec2?s=400&d=robohash&r=x"
-
+#avatar: "https://gravatar.com/avatar/c772d3bccd20ae3d90171792fa639ec2?s=400&d=robohash&r=x"
+avatar: "https://gravatar.com/avatar/5950e740ab59e841b275c17d23e68bc5?size=256&cache=1726284307957"
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
